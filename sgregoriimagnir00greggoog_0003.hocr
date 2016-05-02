@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sgregoriimagnir00greggoog_0003.png"; bbox 0 0 658 1327; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 264 583 380 722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 264 583 380 722">
+     <span class='ocr_line' id='line_1_1' title="bbox 264 583 380 722; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 264 583 380 722; x_wconf 41' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 211 767 424 877">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 211 767 424 877">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 767 422 794; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 222 767 422 794; x_wconf 74' lang='lat' dir='ltr'>HARVARD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 211 808 424 852; baseline -0.005 -16"><span class='ocrx_word' id='word_1_3' title='bbox 211 808 424 852; x_wconf 52' lang='grc' dir='ltr'>ν’ςοιωῑοιῑ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 220 851 423 877; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 220 851 423 877; x_wconf 65' lang='lat' dir='ltr'><em>mmmm(</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 658 1327">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 658 1327">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 658 1327; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 658 1327; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
